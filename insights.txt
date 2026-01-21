@@ -1,0 +1,11 @@
+Business Insights from Task 4
+
+Customer Conversion Gap: By performing a LEFT JOIN between the Customer and Invoice tables, it was identified that a specific segment of registered customers has never placed an order. This "Zero-Order" group represents a critical opportunity for targeted email marketing campaigns or "first-purchase" discount incentives to convert them into active revenue generators.
+
+
+High-Performing SKU Concentration: Through an INNER JOIN between Track and InvoiceLine, the data shows that a small percentage of high-performing tracks (SKUs) contribute to a disproportionately large share of total revenue. Identifying these "Top 3" or "Top 10" products allows the business to focus its promotional budget on its most profitable inventory.
+
+
+
+
+Regional Revenue Distribution: Joining the Invoice and Customer tables by Country reveals that sales are heavily concentrated in specific geographic regions. For example, if the top 3 countries contribute more than 40% of total sales, the business should consider localized content strategies or regional pricing adjustments to maintain market dominance in those areas.
